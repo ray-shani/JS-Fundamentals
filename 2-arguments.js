@@ -1,12 +1,6 @@
 let arguments;
-arguments=0;
-arguments=4;
-if (arguments===0){
-console.log("Argument found");
-}
-else if(arguments===4){
+console.log("No argument")
+arguments=1;
+  console.log("Argument found");
+arguments=3;
   console.log("Arguments found");
-}
-else{
-  console.log("No argument");
-}
