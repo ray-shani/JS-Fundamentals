@@ -1,4 +1,4 @@
-let arguments;
+let arguments=0;
 if (arguments<=1){
 console.log("Argument found");
 }
